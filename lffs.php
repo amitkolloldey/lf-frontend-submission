@@ -1,14 +1,14 @@
 <?php
 /*
  * Plugin Name: Lf Front End Submission
- * Description: This is a Lf Front End Submission. Use shortcode [contact] to display form on page or use the widget. For more info please check readme file.
- * Version: 8.6
- * Author: Guido
- * Author URI: https://www.guido.site
- * License: GNU General Public License v3 or later
- * License URI: https://www.gnu.org/licenses/gpl-3.0.html
+ * Plugin URL:http://amitkolloldey.com
+ * Description: WordPress Frontend Form Submission Plugin.
+ * Version: 1.0
+ * Author: Amit Kollol Dey
+ * Author URI: http://amitkolloldey.com
+ * License: GNU General Public License v2 or later
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: lf-frontend-submission
- * Domain Path: /translation
  */
 
 // disable direct access
