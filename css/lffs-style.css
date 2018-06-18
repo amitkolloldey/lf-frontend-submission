@@ -1,0 +1,32 @@
+/* Lf Front End Submission stylesheet */
+
+/* Form */
+#lffs {width:100%; clear:both; margin:0; padding:0; border:0;}
+#lffs-anchor {clear:both;}
+
+/* Form elements */
+#lffs .form-group {clear:both; margin-bottom:15px;}
+#lffs .form-group label {margin-bottom:5px; display:block;}
+#lffs .form-group input[type="text"], #lffs .form-group input[type="email"] {width:70%; font-size:1em;}
+#lffs .form-group textarea {width:90%; font-size:1em;}
+#lffs .form-group input[type="checkbox"] {}
+#lffs .form-group button {font-size:1em;}
+
+/* Error */
+#lffs .error {border-color:#ff0000; color:#ff0000;}
+
+/* Hide elements */
+#lffs .hide {display:none;}
+
+/* Success or fail message */
+.lffs-info {font-style:italic; font-size:1.20em;}
+
+/* Widget wrapper */
+.lffs-sidebar {}
+.vsct-sidebar:after {content:''; display:block; height:0; clear:both;}
+
+/* Widget text above form */
+.lffs-sidebar-text {clear:both;}
+
+/* Fix for privacy checkbox when using Bootstrap */
+#lffs .form-group .custom-control-input {position:static; z-index:auto; opacity:1;}

@@ -1,0 +1,230 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lf Front End Submission\n"
+"POT-Creation-Date: 2018-06-10 23:34+0200\n"
+"PO-Revision-Date: 2015-08-14 23:18+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: lffs.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: lffs-form.php:50 lffs-options.php:34 lffs-options.php:119
+#: lffs-widget-form.php:50 lffs.php:62
+msgid "Name"
+msgstr ""
+
+#: lffs-form.php:53 lffs-options.php:37 lffs-options.php:125
+#: lffs-widget-form.php:53 lffs.php:63
+msgid "Email"
+msgstr ""
+
+#: lffs-form.php:56 lffs-options.php:40 lffs-options.php:131
+#: lffs-widget-form.php:56
+msgid "Subject"
+msgstr ""
+
+#: lffs-form.php:59 lffs-options.php:137 lffs-widget-form.php:59
+#, php-format
+msgid "Enter number %s"
+msgstr ""
+
+#: lffs-form.php:62 lffs-options.php:46 lffs-options.php:143
+#: lffs-widget-form.php:62
+msgid "Message"
+msgstr ""
+
+#: lffs-form.php:65 lffs-options.php:149 lffs-widget-form.php:65
+msgid ""
+"I consent to having this website collect my personal data via this form."
+msgstr ""
+
+#: lffs-form.php:68 lffs-options.php:52 lffs-options.php:155
+#: lffs-widget-form.php:68
+msgid "Submit"
+msgstr ""
+
+#: lffs-form.php:71 lffs-options.php:161 lffs-widget-form.php:71
+msgid "Please enter at least 2 characters"
+msgstr ""
+
+#: lffs-form.php:74 lffs-options.php:167 lffs-widget-form.php:74
+msgid "Please enter at least 10 characters"
+msgstr ""
+
+#: lffs-form.php:77 lffs-options.php:173 lffs-widget-form.php:77
+msgid "Please enter a valid email"
+msgstr ""
+
+#: lffs-form.php:80 lffs-options.php:179 lffs-widget-form.php:80
+msgid "Please enter the correct number"
+msgstr ""
+
+#: lffs-form.php:85 lffs-options.php:185 lffs-widget-form.php:85
+msgid "Error! Could not send form. This might be a server issue."
+msgstr ""
+
+#: lffs-form.php:92 lffs-form.php:104 lffs-options.php:191
+#: lffs-options.php:197 lffs-widget-form.php:92 lffs-widget-form.php:104
+msgid "Thank you! You will receive a response as soon as possible."
+msgstr ""
+
+#: lffs-form.php:236 lffs-widget-form.php:236
+msgid "Yes"
+msgstr ""
+
+#: lffs-form.php:238 lffs-widget-form.php:238
+msgid "No"
+msgstr ""
+
+#: lffs-form.php:244 lffs-widget-form.php:244
+#, php-format
+msgid "IP: %s"
+msgstr ""
+
+#: lffs-form.php:250 lffs-form.php:258 lffs-widget-form.php:250
+#: lffs-widget-form.php:258
+#, php-format
+msgid "Privacy consent: %s"
+msgstr ""
+
+#: lffs-options.php:9
+msgid "lffs"
+msgstr ""
+
+#: lffs-options.php:15
+msgid "General"
+msgstr ""
+
+#: lffs-options.php:17
+msgid "Uninstall"
+msgstr ""
+
+#: lffs-options.php:20 lffs.php:45
+msgid "Submissions"
+msgstr ""
+
+#: lffs-options.php:23
+msgid "Reply"
+msgstr ""
+
+#: lffs-options.php:26 lffs-options.php:29 lffs-options.php:49
+msgid "Privacy"
+msgstr ""
+
+#: lffs-options.php:32
+msgid "Labels"
+msgstr ""
+
+#: lffs-options.php:43
+msgid "Captcha"
+msgstr ""
+
+#: lffs-options.php:55
+msgid "Error input field"
+msgstr ""
+
+#: lffs-options.php:58
+msgid "Error textarea"
+msgstr ""
+
+#: lffs-options.php:61
+msgid "Error email"
+msgstr ""
+
+#: lffs-options.php:64
+msgid "Error captcha"
+msgstr ""
+
+#: lffs-options.php:67
+msgid "Server error message"
+msgstr ""
+
+#: lffs-options.php:70
+msgid "Thank you message"
+msgstr ""
+
+#: lffs-options.php:73
+msgid "Reply message"
+msgstr ""
+
+#: lffs-options.php:82
+msgid "Do not delete form submissions and settings."
+msgstr ""
+
+#: lffs-options.php:90
+msgid "List form submissions in dashboard."
+msgstr ""
+
+#: lffs-options.php:98
+msgid "Activate confirmation email to sender."
+msgstr ""
+
+#: lffs-options.php:106
+msgid "Activate privacy checkbox on form."
+msgstr ""
+
+#: lffs-options.php:114
+msgid "Disable collection of IP address."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: lffs-options.php:207 lffs-widget.php:11 lffs-widget.php:21
+msgid "Lf Front End Submission"
+msgstr ""
+
+#: lffs-options.php:213
+msgid "More customizations can be made using (shortcode) attributes."
+msgstr ""
+
+#: lffs-options.php:214 lffs-widget.php:37
+msgid "Info about attributes"
+msgstr ""
+
+#: lffs-options.php:214 lffs-widget.php:37 lffs-widget.php:38
+msgid "click here"
+msgstr ""
+
+#: lffs-widget.php:10
+msgid "Display your contact form in a widget."
+msgstr ""
+
+#: lffs-widget.php:26
+msgid "Title"
+msgstr ""
+
+#: lffs-widget.php:30
+msgid "Information"
+msgstr ""
+
+#: lffs-widget.php:34
+msgid "Attributes"
+msgstr ""
+
+#: lffs-widget.php:38 lffs.php:121
+msgid "Settings"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This is a Lf Front End Submission. Use shortcode [contact] to display form "
+"on page or use the widget. For more info please check readme file."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Guido"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.guido.site"
+msgstr ""
